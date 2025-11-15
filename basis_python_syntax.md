@@ -145,7 +145,7 @@ Extra: print alleen even getallen.
 
 ---
 
-# 8. Grote Jan
+# 8. Oefening Grote Jan
 
 Schrijf een kort script dat het volgende doet:
 
@@ -154,6 +154,8 @@ Schrijf een kort script dat het volgende doet:
 - Als die persoon groter is dan 180 cm, dan antwoord je "Dag <naam>, wat ben je groot!".
 - Als hij/zij 160cm of groter is, maar kleiner dan of gelijk aan 180 cm, dan antwoord jé gewoon: "Dag <naam>".
 - Als die persoon kleiner is dan 160 cm, dan antwoord je: "Dag <naam>, je bent ook niet van de grootste."
+
+---
 
 # 9. Oefening op lijsten
 
