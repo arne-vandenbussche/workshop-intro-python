@@ -22,7 +22,7 @@ Inleidende workshop over Python.
 
 Al het cursusmateriaal vind je in de [Github-repository workshop-intro-python](https://github.com/arne-vandenbussche/workshop-intro-python).
 
-- [Powerpoint introductie]()
+- [Powerpoint introductie](./documenten/python-intro.pptx)
 - [Basis Syntax Python](./documenten/basis_python_syntax.md)
 - [Functies in Python](./documenten/functies_in_python.md)
 - [Project: ontsnappingsspel](./documenten/escape_game_handout.md)
