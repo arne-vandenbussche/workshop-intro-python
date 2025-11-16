@@ -26,8 +26,8 @@ Al het cursusmateriaal vind je in de [Github-repository workshop-intro-python](h
 - [Basis Syntax Python](./documenten/basis_python_syntax.md)
 - [Functies in Python](./documenten/functies_in_python.md)
 - [Project: ontsnappingsspel](./documenten/escape_game_handout.md)
-- [Project: gegevensanalyse]()
-- [Project: API Management]()
+- [Project: gegevensanalyse](./documenten/gegevensanalyse_handout.md)
+- [Project: API Management](./documenten/api_project_handout.md)
 
 
 
