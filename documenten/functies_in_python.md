@@ -151,7 +151,7 @@ welkom(naam)
 goedemorgen(naam)
 ```
 
-# 10.if \_\_name\_\_ == " \_\_main\_\_" 
+# 9. if \_\_name\_\_ == " \_\_main\_\_" 
 
 Wanneer we een script schrijven dat functies bevatten, moeten we er rekening mee houden dat er een moment kan komen dat andere stukken code dit script als module kunnen importeren om gebruik te kunnen maken van die functie. In dat geval is het de bedoeling dat de functies gebruikt worden, maar niet dat het script bij het importeren onmiddellijk uitgevoerd wordt. 
 
@@ -174,17 +174,15 @@ if __name__ == '__main__':
 
 Als het script op zichzelf (stand-alone) uitgevoerd wordt, dan wordt de functie `main()` aangroepen, maar je kan ook in een ander script een import doen. `main()` wordt dan niet automatisch aangeroepen bij het uitvoeren van het import-statement, maar je kan de functie `greet()` en `main()` in dat andere script aangroepen op een moment dat je dat zelf wil.
 
-
-
 ---
 
-# 11. Oefening schoenmaat
+# 10. Oefening schoenmaat
 
 Schrijf een functie die een gegeven Europese schoenmaat omzet naar  voetlengte. Definieer ook de inverse functie, d.w.z. de functie die een  gegeven voetlengte omzet naar een schoenmaat. Deze inverse functie mag  enkel een geheel getal als schoenmaat retourneren! Gebruik de formule  die je vindt op de volgende wikipedia pagina: https://nl.wikipedia.org/wiki/Schoenmaat. Neem dan je eigen schoenmaat en bereken je voetlengte. Print het  resultaat uit. Als test pas je de inverse functie toe en check je of de  berekende voetlengte jouw schoenmaat retourneert. Print ook dat  resultaat uit.
 
 ---
 
-# 8. Functies importeren
+# 11. Functies importeren
 
 Schrijf twee functies en bewaar die in het bestand `btw_functies.py`. De eerste functie `korting(prijs, korting)` heeft een bedrag en een kortingspercentageals argument, en geeft het bedrag met korting terug. De tweede functie `bedrag_met_btw(prijs)` heeft een bedrag als argument en geeft hetbedrag met terug met 21% BTW.
 
