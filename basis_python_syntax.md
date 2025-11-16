@@ -151,9 +151,9 @@ Schrijf een kort script dat het volgende doet:
 
 - Je vraagt de naam van iemand.
 - Je vraagt de lengte van iemand in cm.
-- Als die persoon groter is dan 180 cm, dan antwoord je "Dag <naam>, wat ben je groot!".
-- Als hij/zij 160cm of groter is, maar kleiner dan of gelijk aan 180 cm, dan antwoord jé gewoon: "Dag <naam>".
-- Als die persoon kleiner is dan 160 cm, dan antwoord je: "Dag <naam>, je bent ook niet van de grootste."
+- Als die persoon groter is dan 180 cm, dan antwoord je "Dag \<naam\>, wat ben je groot!".
+- Als hij/zij 160cm of groter is, maar kleiner dan of gelijk aan 180 cm, dan antwoord jé gewoon: "Dag \<naam\>".
+- Als die persoon kleiner is dan 160 cm, dan antwoord je: "Dag \<naam\>, je bent ook niet van de grootste."
 
 ---
 
@@ -167,13 +167,6 @@ Schrijf een programma dat:
 4. als het gemiddelde > 10 is → `"That's a big average!"`  
    anders → `"That's a small average."`
 
----
-
-# 10. Nog een oefening op lijsten
-
-Maak een lijst van willekeurige getallen. 
-
-Ga door de lijst en druk de even getallen af.
 
 
 
