@@ -152,7 +152,7 @@ Schrijf een kort script dat het volgende doet:
 - Je vraagt de naam van iemand.
 - Je vraagt de lengte van iemand in cm.
 - Als die persoon groter is dan 180 cm, dan antwoord je "Dag \<naam\>, wat ben je groot!".
-- Als hij/zij 160cm of groter is, maar kleiner dan of gelijk aan 180 cm, dan antwoord jé gewoon: "Dag \<naam\>".
+- Als hij/zij 160cm of groter is, maar kleiner dan of gelijk aan 180 cm, dan antwoord je gewoon: "Dag \<naam\>".
 - Als die persoon kleiner is dan 160 cm, dan antwoord je: "Dag \<naam\>, je bent ook niet van de grootste."
 
 ---
@@ -161,9 +161,9 @@ Schrijf een kort script dat het volgende doet:
 
 Schrijf een programma dat:
 
-1. de gebruiker 3 getallen laat ingeven  
+1. de gebruiker 5 getallen laat ingeven  
 2. ze bewaart in een list  
-3. grootste, kleinste en gemiddelde print  
+3. print het grootste, kleinste en gemiddelde  
 4. als het gemiddelde > 10 is → `"That's a big average!"`  
    anders → `"That's a small average."`
 
